@@ -6,6 +6,7 @@ description = "Placeholder"
 license = "MIT OR Apache2"
 documentation = "https://docs.rs/crabcake"
 repository = "https://github.com/nikomatsakis/crabcake"
+webpage = "https://crabcake.netlify.app/"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
